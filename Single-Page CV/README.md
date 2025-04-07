@@ -50,10 +50,6 @@ The next phase of this project will involve:
 3. Enhancing the responsive design
 4. Optimizing for print (optional)
 
-## References
-- [HTML Living Standard](https://html.spec.whatwg.org/)
-- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [HTML CV Elements Cheatsheet](html-cv-cheatsheet.md)
 
 ## License
 This project is open source and available for personal use and learning purposes.
