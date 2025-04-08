@@ -56,5 +56,4 @@ The next phase of this project will involve:
 - [HTML CV Elements Cheatsheet](html-cv-cheatsheet.md)
 - [ROADMAP Single Page CV Project](https://roadmap.sh/projects/single-page-cv)
 
-## License
-This project is open source and available for personal use and learning purposes.
+https://roadmap.sh/projects/single-page-cv
